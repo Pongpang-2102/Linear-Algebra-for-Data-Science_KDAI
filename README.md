@@ -6,5 +6,5 @@ from Subject : Linear Algebra for Data Science taugh in Data Science and Analyti
 This program consists of 3 big topics as below
 1. Basic Python Programming for Linear Algebra & Linaer Systems of Equation
 2. Vector & Matrix (Norm , Singular Value Decomposition (SVM) and Its Use cases)
-3. Linear Regression (Yupe Difference , Hyperplan , Regularization and Use cases)
+3. Linear Regression (Type Difference , Hyperplane , Regularization and Use cases)
 4. Basic Image Processing (applied from topic 1-3)
